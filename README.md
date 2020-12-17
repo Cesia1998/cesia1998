@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
+  <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 </p>
   
 .
