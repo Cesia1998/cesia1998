@@ -1,4 +1,4 @@
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+
 
 <p align="center">
   <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
