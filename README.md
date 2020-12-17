@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="730"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="630"/>
 </p>
 👋 HOLA, SOY CESIA CALVO POZO !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="50px">
 <p align="center">
