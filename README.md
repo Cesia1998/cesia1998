@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </p>
   
 .
@@ -25,7 +24,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-  
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 .    
    
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&hide=["stars"]&show_icons=true)
