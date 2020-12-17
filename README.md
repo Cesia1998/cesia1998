@@ -1,9 +1,11 @@
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+
 <p align="center">
   <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
 </p>
   
 .
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">  
+
   
 ### 👋 cesia calvo pozo !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
