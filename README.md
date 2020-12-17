@@ -10,7 +10,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
   
-:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+:heart: Programming | :black_heart: Ingeniería | :blue_heart: Sistemas
   
 I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
 
