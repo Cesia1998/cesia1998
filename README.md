@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
-### 👋 HOLA, SOY CESIA CALVO POZO !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="50px">
+👋 HOLA, SOY CESIA CALVO POZO !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="100px">
 <p align="center">
   <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
 </p>
