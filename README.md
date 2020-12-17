@@ -1,4 +1,4 @@
-
+ <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 
 <p align="center">
   <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
