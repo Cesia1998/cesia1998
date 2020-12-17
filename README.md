@@ -12,13 +12,11 @@
   
 :heart: Programación| :black_heart: Ingeniería | :blue_heart: Sistemas
   
-Actualmente soy estudiante de Ingeniería de Sistemas y Computación.
+“Actualmente soy estudiante universitario flexible con excelentes habilidades. Siempre demuestro tener fuertes habilidades de liderazgo. Buscando una experiencia desafiante dentro de una empresa para ampliar mi conocimiento actual en Ingeniería de Sistemas“.
 
-- 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
-- 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
-- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: There is always time. You just have to find it.
+- Estoy buscando una organización que me ofrezca la oportunidad de trabajar en el área de Sistemas.
+- Asistente de gerente Analista.
+- Tengo fuertes habilidades sociales y una actitud delicada hacia mi grupo de trabajo. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📫 How to reach me:
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/PrifyPhilip) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Amchuz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/prify-philip-343b53150/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](amchu1714@gmail.com)
