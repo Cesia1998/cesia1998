@@ -31,7 +31,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 .    
    
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&hide=["stars"]&show_icons=true)
-
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 -------
 
 📊 **Weekly development breakdown**
@@ -42,6 +42,6 @@ HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░
 Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
 Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
 ⭐️ From [@cesia](https://github.com/cesia)
 
